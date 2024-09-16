@@ -1,0 +1,156 @@
+
+{
+    "articles": [
+      {
+        "id": 1,
+        "thumbnail": "https://img.freepik.com/free-vector/live-breaking-news-template-style_23-2148509656.jpg?w=740&t=st=1726265798~exp=1726266398~hmac=5fbc94223830d366701fff6f48c7d6fe7da8c38a14d7b3a7cca1924a9b1b08c1",
+        "title": "Article 1",
+        "content": "Lorem ipsum dolor sit amet, consectetur velit cillum dolore eu adipisicing elit. possimus pariatur animi temporibus...",
+        "author": "Author 1",
+        "date": "10-09-2024",
+        "category": "Tech",
+        "details": "Mattis duis aliquam feugiat diam auctor vel ligula platea. Proin dis facilisis condimentum malesuada mollis. Condimentum eget posuere est parturient cras ac nullam ad euismod. Augue dis vel odio vivamus condimentum taciti. Anatoque dui netus donec ullamcorper arcu amet phasellus consectetur. Fringilla montes dictum ipsum montes nam lacinia torquent nisi tempus. Pretium mi facilisis litora pulvinar massa ullamcorper turpis. Consectetur laoreet purus habitasse felis et orci."
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://img.freepik.com/free-vector/gradient-breaking-news-background_23-2151146337.jpg?w=740&t=st=1726265950~exp=1726266550~hmac=75bb479fd6531e236b5580c343b0b5f991c5e5bca1f131b43ed23cd589b8b5d9",
+        "title": "Article 2",
+        "content": "Lorem ipsum dolor sit amet, velit esse cillum dolore eu fugiat nulla pariatur elit. Recusandae dolores pariatur animi...",
+        "author": "Author 2",
+        "date": "07-04-2024",
+        "category": "Health",
+        "details": "Lorem ipsum odor amet, consectetuer adipiscing elit. Varius dolor dignissim nostra condimentum pretium himenaeos. Leo congue ultrices cubilia etiam primis risus. Sem lectus nam vulputate etiam rutrum blandit neque auctor. In phasellus montes fusce lorem eleifend morbi in. Blandit odio mi porttitor magnis posuere etiam elit torquent. Condimentum feugiat non eleifend bibendum habitasse rutrum hendrerit. Vitae fringilla suscipit cubilia convallis imperdiet maximus amet. Volutpat porttitor orci per felis laoreet."
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://img.freepik.com/free-vector/colorful-breaking-news-concept_23-2148507863.jpg?w=740&t=st=1726266081~exp=1726266681~hmac=8446ff0f4c72ea81c4408f8563091e8dfeaca92a7a62b5b1cdd11631985ab74f",
+        "title": "Article 3",
+        "content": "Lorem ipsum dolor sit amet, porttitor orci per felis adipisicing elit. Recusandae dolores, possimus....",
+        "author": "Author 3",
+        "date": "07-05-2024",
+        "category": "Tech",
+        "details": "Lectus bibendum in nullam proin tellus eu. Purus fermentum cras primis consectetur aliquam. Montes at nullam convallis ullamcorper congue nec. Libero eleifend eros erat imperdiet suscipit. Elit suscipit ante sed sociosqu nulla potenti in morbi. Amet gravida porta ut blandit luctus. Lacinia molestie dis netus habitasse sodales, euismod augue senectus. Placerat vehicula feugiat iaculis torquent est orci ut quisque."
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://img.freepik.com/free-vector/live-breaking-news-regarding-coronavirus_23-2148723946.jpg?w=740&t=st=1726266125~exp=1726266725~hmac=045b08239f36dcb7471e6821653e9ae5534baaae78a88c05f97dea3720b0895a",
+        "title": "Article 4",
+        "content": "Lorem ipsum dolor sit amet, consectetur elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt...",
+        "author": "Author 4",
+        "date": "07-06-2024",
+        "category": "Tech",
+        "details": "Faucibus non senectus vel praesent sem, velit commodo. Sodales nisl placerat purus eget non ante sem. Rutrum ultricies rutrum amet diam commodo sapien rhoncus nostra? Eros arcu consequat vestibulum porttitor lorem vivamus habitant blandit! Integer urna nullam litora tempor dolor tempus. Tempor interdum porttitor neque per vestibulum; fusce ridiculus luctus sodales. Ad placerat conubia convallis; accumsan aliquet at condimentum. Habitant tincidunt adipiscing morbi class lobortis eleifend dolor efficitur."
+      },
+      {
+        "id": 5,
+        "thumbnail": "https://i.pinimg.com/564x/b6/58/93/b658937b92f9adb445d3541c9d0be608.jpg",
+        "title": "Article 5",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus...",
+        "author": "Author 5",
+        "date": "07-07-2024",
+        "category": "Health",
+        "details": "Eget quam cubilia per platea mi aliquam feugiat hac cras. Rhoncus nisi suspendisse condimentum lorem metus fusce dignissim cursus lobortis. Vulputate urna lobortis nibh nisl commodo conubia pharetra dolor. Ridiculus aliquam ex condimentum maecenas litora facilisi eleifend. Donec phasellus mollis sociosqu condimentum elementum nulla feugiat leo adipiscing. Porttitor hendrerit eu magnis in praesent nascetur. Volutpat suscipit euismod ultrices, pellentesque fringilla elit aliquet malesuada. Parturient vitae sociosqu natoque sem mollis magnis metus."
+      },
+      {
+        "id": 6,
+        "thumbnail": "https://img.freepik.com/free-photo/futuristic-space-rocket-with-fantasy-design_23-2151151902.jpg?t=st=1726266219~exp=1726269819~hmac=e3503fbf536db44c67e305a429b206c491c0593bcc7f8998ccbd805b17942c13&w=740",
+        "title": "Article 6",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores adipisicing elit. Recusandae dolores...",
+        "author": "Author 6",
+        "date": "07-08-2024",
+        "category": "Health",
+        "details": "Tortor nascetur adipiscing euismod primis justo efficitur. Condimentum lacus risus interdum nascetur a. Amet arcu cursus nec faucibus morbi libero sem. Quisque primis laoreet dis vitae cursus nascetur quis tristique. Vel id ornare conubia amet proin aliquet? Nascetur diam tellus lacus enim malesuada accumsan. Morbi et fames porttitor cubilia nullam laoreet maecenas pulvinar adipiscing. Nisl lobortis proin class vehicula nam ante. Sem ullamcorper massa risus nostra magnis varius hac. Class phasellus nascetur porttitor magna etiam varius."
+      },
+      {
+        "id": 7,
+        "thumbnail": "https://i.pinimg.com/564x/b6/58/93/b658937b92f9adb445d3541c9d0be608.jpg",
+        "title": "Article 7",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt...",
+        "author": "Author 7",
+        "date": "07-09-2024",
+        "category": "Health",
+        "details": "Cubilia hac nunc sagittis ultricies nunc aliquet; eros ultricies. Ultrices gravida ac odio aptent semper dapibus imperdiet. Proin tortor convallis cras nibh aptent interdum lectus placerat. Nostra felis per ligula, interdum ornare himenaeos nibh. Tellus in vestibulum luctus placerat litora hendrerit augue dapibus pharetra. Primis condimentum porttitor erat accumsan viverra tristique est auctor. Accumsan himenaeos ex eu fusce volutpat tristique. Laoreet erat tristique mi donec risus nibh cras molestie."
+      },
+      {
+        "id": 8,
+        "thumbnail": "https://www.sisirradar.com/static/media/IndoorSisirWork2.d66ed1d67e342e7782b2.png",
+        "title": "Article 8",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus...",
+        "author": "Author 8",
+        "date": "01-03-2024",
+        "category": "Health",
+        "details": "Montes ridiculus nostra sollicitudin et felis mauris laoreet sociosqu adipiscing. Justo elit taciti sem magnis arcu vitae. Magnis accumsan morbi facilisi cubilia elementum. Eget pellentesque laoreet tempor luctus consequat curabitur. Proin lacinia sodales venenatis habitasse vitae mollis. Cras primis tellus felis; urna vulputate egestas orci vulputate platea. Hendrerit placerat imperdiet, litora a volutpat ipsum finibus."
+      },
+      {
+        "id": 9,
+        "thumbnail": "https://www.sisirradar.com/static/media/OutdoorSisirWork.96c658b3d047de32aaa5.png",
+        "title": "Article 9",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores adipisicing elit. Recusandae dolores...",
+        "author": "Author 9",
+        "date": "07-02-2024",
+        "category": "Tech",
+        "details": "Tristique dis leo at at mus metus morbi tincidunt quam. Varius accumsan cubilia sagittis lectus pellentesque potenti curabitur. Luctus bibendum senectus interdum aliquet mauris maximus magnis leo. Sapien facilisis suscipit mus dis velit sem eu. Semper tempus nec laoreet a nec; viverra blandit. Pharetra dui tempus proin arcu scelerisque. Adipiscing gravida etiam rhoncus tristique mi viverra cras faucibus quisque. Ullamcorper commodo hendrerit pulvinar dis curabitur suscipit condimentum potenti. In at vulputate platea condimentum amet enim pretium class."
+      },
+      {
+        "id": 10,
+        "thumbnail": "https://img.freepik.com/free-vector/live-breaking-news-regarding-coronavirus_23-2148723946.jpg?w=740&t=st=1726266125~exp=1726266725~hmac=045b08239f36dcb7471e6821653e9ae5534baaae78a88c05f97dea3720b0895a",
+        "title": "Article 10",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt...",
+        "author": "Author 10",
+        "date": "07-01-2024",
+        "category": "Tech",
+        "details": "Faucibus non senectus vel praesent sem, velit commodo. Sodales nisl placerat purus eget non ante sem. Rutrum ultricies rutrum amet diam commodo sapien rhoncus nostra? Eros arcu consequat vestibulum porttitor lorem vivamus habitant blandit! Integer urna nullam litora tempor dolor tempus. Tempor interdum porttitor neque per vestibulum; fusce ridiculus luctus sodales. Ad placerat conubia convallis; accumsan aliquet at condimentum. Habitant tincidunt adipiscing morbi class lobortis eleifend dolor efficitur."
+      },
+      {
+        "id": 11,
+        "thumbnail": "https://i.pinimg.com/564x/b6/58/93/b658937b92f9adb445d3541c9d0be608.jpg",
+        "title": "Article 11",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus...",
+        "author": "Author 11",
+        "date": "05-06-2024",
+        "category": "Health",
+        "details": "Eget quam cubilia per platea mi aliquam feugiat hac cras. Rhoncus nisi suspendisse condimentum lorem metus fusce dignissim cursus lobortis. Vulputate urna lobortis nibh nisl commodo conubia pharetra dolor. Ridiculus aliquam ex condimentum maecenas litora facilisi eleifend. Donec phasellus mollis sociosqu condimentum elementum nulla feugiat leo adipiscing. Porttitor hendrerit eu magnis in praesent nascetur. Volutpat suscipit euismod ultrices, pellentesque fringilla elit aliquet malesuada. Parturient vitae sociosqu natoque sem mollis magnis metus."
+      },
+      {
+        "id": 12,
+        "thumbnail": "https://img.freepik.com/free-photo/futuristic-space-rocket-with-fantasy-design_23-2151151902.jpg?t=st=1726266219~exp=1726269819~hmac=e3503fbf536db44c67e305a429b206c491c0593bcc7f8998ccbd805b17942c13&w=740",
+        "title": "Article 12",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores adipisicing elit. Recusandae dolores...",
+        "author": "Author 12",
+        "date": "10-07-2024",
+        "category": "Tech",
+        "details": "Tortor nascetur adipiscing euismod primis justo efficitur. Condimentum lacus risus interdum nascetur a. Amet arcu cursus nec faucibus morbi libero sem. Quisque primis laoreet dis vitae cursus nascetur quis tristique. Vel id ornare conubia amet proin aliquet? Nascetur diam tellus lacus enim malesuada accumsan. Morbi et fames porttitor cubilia nullam laoreet maecenas pulvinar adipiscing. Nisl lobortis proin class vehicula nam ante. Sem ullamcorper massa risus nostra magnis varius hac. Class phasellus nascetur porttitor magna etiam varius."
+      },
+      {
+        "id": 13,
+        "thumbnail": "https://i.pinimg.com/564x/b6/58/93/b658937b92f9adb445d3541c9d0be608.jpg",
+        "title": "Article 13",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt...",
+        "author": "Author 13",
+        "date": "23-04-2024",
+        "category": "Tech",
+        "details": "Cubilia hac nunc sagittis ultricies nunc aliquet; eros ultricies. Ultrices gravida ac odio aptent semper dapibus imperdiet. Proin tortor convallis cras nibh aptent interdum lectus placerat. Nostra felis per ligula, interdum ornare himenaeos nibh. Tellus in vestibulum luctus placerat litora hendrerit augue dapibus pharetra. Primis condimentum porttitor erat accumsan viverra tristique est auctor. Accumsan himenaeos ex eu fusce volutpat tristique. Laoreet erat tristique mi donec risus nibh cras molestie."
+      },
+      {
+        "id": 14,
+        "thumbnail": "https://www.sisirradar.com/static/media/IndoorSisirWork2.d66ed1d67e342e7782b2.png",
+        "title": "Article 14",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus...",
+        "author": "Author 14",
+        "date": "10-08-2024",
+        "category": "Tech",
+        "details": "Montes ridiculus nostra sollicitudin et felis mauris laoreet sociosqu adipiscing. Justo elit taciti sem magnis arcu vitae. Magnis accumsan morbi facilisi cubilia elementum. Eget pellentesque laoreet tempor luctus consequat curabitur. Proin lacinia sodales venenatis habitasse vitae mollis. Cras primis tellus felis; urna vulputate egestas orci vulputate platea. Hendrerit placerat imperdiet, litora a volutpat ipsum finibus."
+      },
+      {
+        "id": 15,
+        "thumbnail": "https://www.sisirradar.com/static/media/OutdoorSisirWork.96c658b3d047de32aaa5.png",
+        "title": "Article 15",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores adipisicing elit. Recusandae dolores...",
+        "author": "Author 15",
+        "date": "01-09-2024",
+        "category": "Health",
+        "details": "Tristique dis leo at at mus metus morbi tincidunt quam. Varius accumsan cubilia sagittis lectus pellentesque potenti curabitur. Luctus bibendum senectus interdum aliquet mauris maximus magnis leo. Sapien facilisis suscipit mus dis velit sem eu. Semper tempus nec laoreet a nec; viverra blandit. Pharetra dui tempus proin arcu scelerisque. Adipiscing gravida etiam rhoncus tristique mi viverra cras faucibus quisque. Ullamcorper commodo hendrerit pulvinar dis curabitur suscipit condimentum potenti. In at vulputate platea condimentum amet enim pretium class."
+      }
+    ]
+  }
+  
